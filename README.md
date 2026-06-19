@@ -33,4 +33,4 @@ A continuación se presenta una vista previa de las señales caóticas generadas
 ---
 
 ## ✉️ Contacto
-Para dudas sobre el diseño del circuito analógico o el procesamiento de datos a través del algoritmo de Wolf, puedes contactar a los autores mediante los correos institucionales indicados en el artículo o abrir un *Issue* en este repositorio.
+Para dudas sobre el contenido del artículo en general, puedes contactar a los autores mediante los correos institucionales indicados en el artículo.
